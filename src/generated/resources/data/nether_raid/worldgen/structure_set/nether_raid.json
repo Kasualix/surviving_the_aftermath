@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1629143766,
+    "separation": 40,
+    "spacing": 100
+  },
+  "structures": [
+    {
+      "structure": "nether_raid:nether_raid",
+      "weight": 1
+    }
+  ]
+}

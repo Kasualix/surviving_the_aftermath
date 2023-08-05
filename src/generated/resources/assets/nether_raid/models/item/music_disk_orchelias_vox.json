@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/template_music_disc",
+  "textures": {
+    "layer0": "nether_raid:item/music_disk_orchelias_vox"
+  }
+}

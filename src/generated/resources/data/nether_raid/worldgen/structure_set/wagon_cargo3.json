@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1733648479,
+    "separation": 40,
+    "spacing": 90
+  },
+  "structures": [
+    {
+      "structure": "nether_raid:wagon_cargo3",
+      "weight": 1
+    }
+  ]
+}

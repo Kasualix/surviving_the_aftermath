@@ -1,0 +1,7 @@
+{
+  "type": "nether_raid:nether_raid",
+  "biomes": "#nether_raid:has_nether_raid",
+  "spawn_overrides": {},
+  "step": "surface_structures",
+  "terrain_adaptation": "beard_thin"
+}

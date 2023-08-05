@@ -1,0 +1,10 @@
+{
+  "orchelias_vox": {
+    "sounds": [
+      {
+        "name": "nether_raid:orchelias_vox",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "block.nether_raid.party_bonfire": "Party Bonfire",
+  "effect.nether_raid.cowardice": "Cowardice",
+  "enchantment.nether_raid.bloodthirsty": "Bloodthirsty",
+  "enchantment.nether_raid.clean_water": "Clean Water",
+  "enchantment.nether_raid.counter_attack": "Counter Attack",
+  "enchantment.nether_raid.devoured": "Devoured",
+  "enchantment.nether_raid.execute": "Execute",
+  "enchantment.nether_raid.frantic": "Frantic",
+  "enchantment.nether_raid.life_tree": "Life Tree",
+  "enchantment.nether_raid.moon": "Moon",
+  "enchantment.nether_raid.sun": "Sun",
+  "item.nether_raid.egg_tart": "Egg Tart",
+  "item.nether_raid.hamburger": "Hamburger",
+  "item.nether_raid.music_disk_orchelias_vox": "Music Disc",
+  "item.nether_raid.music_disk_orchelias_vox.desc": "Hagali - Orchelia's vox (offvocal ver_)",
+  "item.nether_raid.nether_core": "Nether Core",
+  "item.nether_raid.raw_falukorv": "Raw Falukorv",
+  "item.nether_raid.stack_of_egg_tarts": "Stack of Egg Tart",
+  "item.nether_raid.tianjin_pancake": "Tianjin Pancake",
+  "itemGroup.nether_raid": "Surviving the Aftermath",
+  "nether_raid.nether_raid": ""
+}

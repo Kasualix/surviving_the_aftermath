@@ -1,0 +1,6 @@
+{
+  "type": "nether_raid:wagon_cargo4",
+  "biomes": "#nether_raid:has_expansion_build",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

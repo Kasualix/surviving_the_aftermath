@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 1321561321,
+    "separation": 40,
+    "spacing": 90
+  },
+  "structures": [
+    {
+      "structure": "nether_raid:logs",
+      "weight": 1
+    }
+  ]
+}
