@@ -1,6 +1,7 @@
 package mod.nether_raid.event;
 
 import com.google.common.collect.Maps;
+import com.google.common.collect.Lists;
 import mod.nether_raid.capability.RaidData;
 import mod.nether_raid.init.ModMobEffects;
 import mod.nether_raid.raid.NetherRaid;
@@ -16,7 +17,6 @@ import net.minecraft.world.level.Level;
 import net.minecraftforge.event.TickEvent;
 import net.minecraftforge.event.entity.player.PlayerEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
-import org.apache.commons.compress.utils.Lists;
 
 import java.util.*;
 
